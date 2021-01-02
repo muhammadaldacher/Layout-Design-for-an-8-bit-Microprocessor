@@ -7,4 +7,4 @@ Our project involves the design of an 8-bit microprocessor data-path including 8
 ## Overall Layout
 ![8bit u-processor layout](https://user-images.githubusercontent.com/27668656/53133722-fb254b00-3528-11e9-812f-96dd5f99cec2.png)
 
-Check the project's report for more information.
+Check the project's report for more information: https://git.io/JL5Yc
